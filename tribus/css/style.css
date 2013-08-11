@@ -1,0 +1,473 @@
+html {
+  color: #000;
+  background: #fff;
+}
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+fieldset,
+img {
+  border: 0;
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+  font-style: normal;
+  font-weight: normal;
+}
+ol,
+ul {
+  list-style: none;
+}
+caption,
+th {
+  text-align: left;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+q:before,
+q:after {
+  content: '';
+}
+abbr,
+acronym {
+  border: 0;
+  font-variant: normal;
+}
+sup {
+  vertical-align: text-top;
+}
+sub {
+  vertical-align: text-bottom;
+}
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+input,
+textarea,
+select {
+  *font-size: 100%;
+}
+legend {
+  color: #000;
+}
+*:focus {
+  outline: none;
+}
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  *behavior: url("https://raw.github.com/Schepp/box-sizing-polyfill/master/boxsizing.htc");
+}
+body {
+  font: 16px sans-serif;
+  -webkit-text-size-adjust: none;
+  background: url("../img/bg_np.png");
+}
+a {
+  text-decoration: none;
+}
+strong {
+  font-weight: bold;
+}
+em {
+  font-style: italic;
+}
+img,
+object,
+embed {
+  max-width: 100%;
+}
+.row,
+body,
+.container {
+  width: 100%;
+  min-width: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+.row {
+  overflow: hidden;
+}
+.row .onecol,
+.row .twocol,
+.row .threecol,
+.row .fourcol,
+.row .fivecol,
+.row .sixcol,
+.row .sevencol,
+.row .eightcol,
+.row .ninecol,
+.row .tencol,
+.row .elevencol,
+.row .twelvecol {
+  width: auto;
+  float: none;
+  margin-left: 0;
+  margin-right: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.clearfix:before,
+.clearfix:after {
+  content: '';
+  display: table;
+}
+.clearfix:after {
+  clear: both;
+}
+.clearfix {
+  *zoom: 1;
+}
+.collapse {
+  -webkit-transition: height 0.35s ease;
+  -moz-transition: height 0.35s ease;
+  -ms-transition: height 0.35s ease;
+  -o-transition: argumtns;
+  transition: height 0.35s ease;
+  position: relative;
+  overflow: hidden;
+  height: 0;
+}
+.collapse.in {
+  height: auto;
+}
+.pull-right,
+.right {
+  float: right;
+}
+.pull-left,
+.left {
+  float: left;
+}
+.hide {
+  display: none;
+}
+.show {
+  display: block;
+}
+.invisible {
+  visibility: hidden;
+}
+.btn {
+  padding: 0.44em 1em;
+  -webkit-border-radius: 0.33em;
+  -moz-border-radius: 0.33em;
+  -o-border-radius: 0.33em;
+  border-radius: 0.33em;
+  -webkit-box-shadow: 0.11em 0.11em 0.55em $light-gray;
+  -moz-box-shadow: 0.11em 0.11em 0.55em $light-gray;
+  -ms-box-shadow: 0.11em 0.11em 0.55em $light-gray;
+  -o-box-shadow: 0.11em 0.11em 0.55em $light-gray;
+  box-shadow: 0.11em 0.11em 0.55em $light-gray;
+}
+@font-face {
+  font-family: 'League Gothic';
+  src: url("fonts/leaguegothic-regular-webfont.eot");
+  src: url("fonts/leaguegothic-regular-webfont.eot?#iefix") format('eot'), url("fonts/leaguegothic-regular-webfont.woff") format('woff'), url("fonts/leaguegothic-regular-webfont.ttf") format('truetype'), url("fonts/leaguegothic-regular-webfont.svg#league_gothicregular") format('svg');
+  font-style: normal;
+  font-weight: normal;
+}
+.leaguegothic {
+  font-family: 'League Gothic', 'Helvetica Neue', Arial, sans-serif;
+}
+header.main {
+  padding-right: 3%;
+  padding-left: 3%;
+  font-family: "League Gothic", Helvetica, Arial, sans-serif;
+  font-size: 1.66em;
+}
+header.main a {
+  text-decoration: none;
+  color: #666;
+}
+header.main a:visited {
+  color: #666;
+}
+header.main a:hover {
+  color: #2d2d2d;
+}
+header.main .logo {
+  text-align: center;
+}
+header.main .btn-navbar {
+  display: none;
+}
+header.main .title {
+  font-family: 'League Gothic', Helvetica, Arial, sans-serif;
+}
+header.main .title h1 {
+  font-size: 1.8em;
+  text-transform: uppercase;
+  color: #999;
+  text-align: center;
+}
+header.main .title .tagline {
+  font-size: 0.8em;
+  font-family: 'Alegreya', Georgia, serif;
+  font-style: italic;
+  font-weight: 700;
+  color: #9eabb0;
+}
+header.main nav.main {
+  font-family: 'Alegreya', Georgia, serif;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 0.6em;
+  padding-bottom: 3em;
+}
+header.main nav.main ul {
+  text-align: center;
+}
+header.main nav.main li {
+  padding: 0 0.33em;
+}
+header.main nav.main #search {
+  float: right;
+}
+header.main nav.main #search label {
+  margin-right: 0.33em;
+}
+header.main nav.main #search input {
+  border: 2px solid $light-black;
+  width: 110px;
+}
+footer {
+  padding: 3em 0;
+  font-style: italic;
+}
+footer a {
+  font-weight: 700;
+}
+body {
+  font-family: 'Alegreya', Georgia, serif;
+  font-size: 1.12em;
+  color: #364e59;
+}
+a {
+  color: #999;
+}
+a:visited {
+  color: #999;
+}
+a:hover {
+  color: #666;
+}
+strong {
+  font-weight: 700;
+}
+p {
+  padding: 1em 0;
+}
+.content p span {
+  font-weight: 700;
+  font-style: italic;
+}
+.list li {
+  display: inline;
+}
+.list h2 {
+  font-style: italic;
+  font-weight: 700;
+}
+.goup {
+  font-style: italic;
+}
+#up-first {
+  margin-top: 5em;
+  margin-bottom: 10em;
+  text-align: center;
+}
+#up-first ul li {
+  display: inline;
+}
+#ghostbar,
+#joseluisrivas {
+  padding-top: 1.33em;
+  min-height: 700px;
+}
+#ghostbar h1,
+#joseluisrivas h1 {
+  text-align: center;
+  font-weight: 700;
+  font-style: italic;
+  font-size: 2.33em;
+}
+@media only screen and (min-width: 480px) {
+  .btn {
+    padding: 0.33em 0.77em !important;
+  }
+  .btn .icon {
+    height: 22px !important;
+    width: 28px !important;
+  }
+  .subheader .title {
+    font-size: 0.44em !important;
+  }
+  .subheader .btn-next .icon-next {
+    background-position: -175px 0 !important;
+  }
+  .subheader .btn-back .icon-back {
+    background-position: -275px 0 !important;
+  }
+}
+@media only screen and (min-width: 600px) {
+}
+@media only screen and (min-width: 768px) {
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .row {
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  .row .onecol,
+  .row .twocol,
+  .row .threecol,
+  .row .fourcol,
+  .row .fivecol,
+  .row .sixcol,
+  .row .sevencol,
+  .row .eightcol,
+  .row .ninecol,
+  .row .tencol,
+  .row .elevencol,
+  .row .twelvecol {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .row .onecol,
+  .row .twocol,
+  .row .threecol,
+  .row .fourcol,
+  .row .fivecol,
+  .row .sixcol,
+  .row .sevencol,
+  .row .eightcol,
+  .row .ninecol,
+  .row .tencol,
+  .row .elevencol {
+    margin-right: 3.8%;
+    float: left;
+  }
+  .row .onecol {
+    width: 4.85%;
+  }
+  .row .twocol {
+    width: 13.5%;
+  }
+  .row .threecol {
+    width: 22.15%;
+  }
+  .row .fourcol {
+    width: 30.8%;
+  }
+  .row .fivecol {
+    width: 39.45%;
+  }
+  .row .sixcol {
+    width: 48.1%;
+  }
+  .row .sevencol {
+    width: 56.75%;
+  }
+  .row .eightcol {
+    width: 65.4%;
+  }
+  .row .ninecol {
+    width: 74.05%;
+  }
+  .row .tencol {
+    width: 82.7%;
+  }
+  .row .elevencol {
+    width: 91.35%;
+  }
+  .row .twelvecol {
+    width: 100%;
+    float: left;
+  }
+  .row .last {
+    margin-right: 0px;
+  }
+  header.main .title h1 {
+    font-size: 5em;
+    text-align: left;
+  }
+  header.main .tagline {
+    font-size: 0.9em;
+  }
+  header.main nav.main {
+    font-size: 0.8em;
+  }
+  header.main nav.main ul {
+    float: right;
+  }
+  #ghostbar,
+  #joseluisrivas {
+    padding-top: 7em;
+  }
+  #ghostbar h1,
+  #joseluisrivas h1 {
+    text-align: left;
+  }
+}
+@media only screen and (min-width: 992px) {
+}
+@media only screen and (min-width: 1382px) {
+  .container {
+    max-width: 1382px;
+  }
+}
