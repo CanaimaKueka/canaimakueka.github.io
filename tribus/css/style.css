@@ -1,6 +1,7 @@
 html {
   color: #000;
   background: #fff;
+  height:100%;
 }
 body,
 div,
@@ -134,6 +135,7 @@ body,
   margin-right: 0;
   padding-left: 0;
   padding-right: 0;
+  min-height:100%;
 }
 .row {
   overflow: hidden;
@@ -308,6 +310,9 @@ strong {
 p {
   padding: 1em 0;
 }
+img {
+  margin:5px;
+}
 .content p span {
   font-weight: 700;
   font-style: italic;
@@ -330,18 +335,7 @@ p {
 #up-first ul li {
   display: inline;
 }
-#ghostbar,
-#joseluisrivas {
-  padding-top: 1.33em;
-  min-height: 700px;
-}
-#ghostbar h1,
-#joseluisrivas h1 {
-  text-align: center;
-  font-weight: 700;
-  font-style: italic;
-  font-size: 2.33em;
-}
+
 @media only screen and (min-width: 480px) {
   .btn {
     padding: 0.33em 0.77em !important;
@@ -454,14 +448,6 @@ p {
   }
   header.main nav.main ul {
     float: right;
-  }
-  #ghostbar,
-  #joseluisrivas {
-    padding-top: 7em;
-  }
-  #ghostbar h1,
-  #joseluisrivas h1 {
-    text-align: left;
   }
 }
 @media only screen and (min-width: 992px) {
