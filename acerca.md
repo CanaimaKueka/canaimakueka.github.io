@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Acerca
+subtitle: ¿Qué es Canaima?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+CANAIMA, es una tecnología diseñada pensando en las necesidades y realidades del servidor público venezolano, orientado a los procesos de la Administración Pública, en apoyo a su automatización con Software Libre, siendo éste una alternativa al modelo dependiente tradicional y  haciendo frente a un mercado cercado por las grandes corporaciones en su mayoría trasnacionales.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Canaima comprende herramientas y métodos para avanzar hacia la independencia tecnológica al servir como plataforma de encuentro para desarrolladores y usuarios envueltos en la gestión de tecnologías de información con pertinencia en nuestro Proyecto Nacional. Canaima es Software Libre, lo cual implica una nueva ética de consumo, producción y relacionamiento económico en torno a las tecnologías.
