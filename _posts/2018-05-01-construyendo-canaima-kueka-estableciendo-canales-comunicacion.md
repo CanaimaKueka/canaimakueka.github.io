@@ -34,7 +34,7 @@ Es por ello que establecemos los siguientes canales de comunicación para Canaim
 * [Un chat en gitter](https://gitter.im/CanaimaGNULinux/kueka).
 * [Una wiki](https://github.com/CanaimaGNULinux/kueka/wiki).
 * [Un sistema de reporte de tickets](https://github.com/CanaimaGNULinux/kueka/issues).
-* [Una página de planificación de versiones](https://github.com/CanaimaGNULinux/kueka/projects).
+* [Una página de planificación de versiones](https://github.com/orgs/CanaimaGNULinux/projects).
 * [Una página se seguimiento de la integración de paquetes](https://canaimagnulinux.github.io/kueka/paquetes) *en construcción*.
 * [Una página se seguimiento de la integración de instaladores](https://canaimagnulinux.github.io/kueka/instaladores) *en construcción*.
 
