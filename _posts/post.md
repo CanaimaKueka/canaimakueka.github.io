@@ -8,6 +8,9 @@ subtitle: >-
   se comunicarán.
 ---
 
+![dedicated-trainers.svg]({{site.baseurl}}/img/dedicated-trainers.svg)
+
+
 Esta distribución la iremos construyendo por partes e iremos documentando cada paso dado con detalles, explicaciones y referencias, con el objetivo de que sirva a otras personas como guía a la hora de hacer distribuciones basadas en Canaima.
 
 Como primer paso estableceremos algo que es primordial en la construcción de comunidades de Software Libre: los canales de comunicación. A menos que el objetivo sea hacer una [one-man-distro](http://monksblog-malspa.blogspot.com/2012/02/one-man-distro.html), siempre es necesario establecer el lugar en donde la gente encontrará la información relacionada con la distribución y cómo ponerse en contacto con los demás miembros del equipo.
