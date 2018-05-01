@@ -6,7 +6,6 @@ date: '2018-05-01'
 subtitle: >-
   Es necesario establecer los canales por los que los usuarios y desarrolladores
   se comunicarán.
-image: /img/dedicated-trainers.svg
 ---
 
 ![dedicated-trainers.svg]({{site.baseurl}}/img/dedicated-trainers.svg)
