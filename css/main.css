@@ -5,7 +5,7 @@ layout: null
 /* --- General --- */
 
 body {
-  font-family: 'Lora', 'Times New Roman', serif;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #404040;
   position: relative;
@@ -568,11 +568,20 @@ footer .theme-by {
   text-align: center;
   font-size: 14px;
   padding: 10px;
-  font-style: italic;
   margin: 0;
   display: block;
   border-bottom-right-radius: 5px;
   border-bottom-left-radius: 5px;
+}
+
+.btn {
+  white-space:normal;
+  word-wrap: break-word; 
+}
+
+.container .jumbotron {
+  padding: 20px 30px;
+  margin: 30px 0;
 }
 
 #header-gh-btns {
