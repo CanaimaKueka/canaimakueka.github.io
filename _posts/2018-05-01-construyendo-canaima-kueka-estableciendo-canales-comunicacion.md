@@ -38,6 +38,6 @@ Es por ello que establecemos los siguientes canales de comunicación para Canaim
 * [Una página se seguimiento de la integración de paquetes](https://canaimagnulinux.github.io/kueka/paquetes) *en construcción*.
 * [Una página se seguimiento de la integración de instaladores](https://canaimagnulinux.github.io/kueka/instaladores) *en construcción*.
 
-Te invitamos cordialmente a integrarte al desarrollo de Canaima Kueka, quizás puedes empezar echandole un ojo a la [planificación de versiones](https://github.com/CanaimaGNULinux/kueka/projects) a ver si existe alguna tarea que te interese.
+Te invitamos cordialmente a integrarte al desarrollo de Canaima Kueka, quizás puedes empezar echandole un ojo a la [planificación de versiones](https://github.com/orgs/CanaimaGNULinux/projects) a ver si existe alguna tarea que te interese.
 
 ¡Hasta una próxima oportunidad!
