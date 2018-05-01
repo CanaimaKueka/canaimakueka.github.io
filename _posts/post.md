@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Construyendo Canaima Kueka: estableciendo canales de comunicación'
-published: false
+published: true
 date: '2018-05-01'
 subtitle: >-
   Es necesario establecer los canales por los que los usuarios y desarrolladores
