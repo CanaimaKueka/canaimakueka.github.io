@@ -39,7 +39,7 @@ avatar: "/img/logo.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img: "/img/logo.png"
 
 # --- Background colour/image options --- #
 
@@ -123,7 +123,7 @@ url-pretty: "canaimagnulinux.github.io/kueka"  # eg. "deanattali.com/beautiful-j
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "canaimakueka"
 
 # Facebook App ID
 # fb_app_id: ""
