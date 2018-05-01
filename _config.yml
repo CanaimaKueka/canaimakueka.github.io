@@ -97,8 +97,8 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
-  linkedin: true
+  google: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer

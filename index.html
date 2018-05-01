@@ -67,7 +67,7 @@ use-site-title: true
         <h3>Planificación de versiones</h3>
         <p>Acá encontrarás la planificación de las próximas versiones y proyectos de la distribución.</p>
         <p>
-          <a href="https://github.com/CanaimaGNULinux/kueka/projects" class="btn btn-default" role="button" target="_blank">Hoja de ruta</a>
+          <a href="https://github.com/orgs/CanaimaGNULinux/projects" class="btn btn-default" role="button" target="_blank">Hoja de ruta</a>
         </p>
       </div>
     </div>
@@ -111,7 +111,7 @@ use-site-title: true
     </a>
 
     <p class="post-meta">
-      Posted on {{ post.date | date: "%B %-d, %Y" }}
+      Publicado {{ post.date | date: "%B %-d, %Y" }}
     </p>
 
     <div class="post-entry-container">
@@ -126,7 +126,7 @@ use-site-title: true
         {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
         {% assign excerpt_word_count = post.excerpt | number_of_words %}
         {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
-          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">Leer mas ...</a>
         {% endif %}
       </div>
     </div>
