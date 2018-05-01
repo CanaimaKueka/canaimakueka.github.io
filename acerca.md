@@ -1,9 +1,17 @@
 ---
 layout: page
 title: Acerca
-subtitle: ¿Qué es Canaima?
+subtitle: ¿Qué es Canaima Kueka?
 ---
 
-CANAIMA, es una tecnología diseñada pensando en las necesidades y realidades del servidor público venezolano, orientado a los procesos de la Administración Pública, en apoyo a su automatización con Software Libre, siendo éste una alternativa al modelo dependiente tradicional y  haciendo frente a un mercado cercado por las grandes corporaciones en su mayoría trasnacionales.
+El <fecha> durante una Minicayapa en la Escuela Venezolana de Planificación (Caracas), los actores comunitarios presentes tomaron la decisión de rehacer la distribución Canaima Popular *desde cero*, bajo la justificación de que lo existente era *tan desastroso* que *no servía*.
 
-Canaima comprende herramientas y métodos para avanzar hacia la independencia tecnológica al servir como plataforma de encuentro para desarrolladores y usuarios envueltos en la gestión de tecnologías de información con pertinencia en nuestro Proyecto Nacional. Canaima es Software Libre, lo cual implica una nueva ética de consumo, producción y relacionamiento económico en torno a las tecnologías.
+Con un quórum cuestionable y una premura impresa por la institucionalidad, nacieron nuevos paquetes y nuevos procesos. Pero con ellos también volvieron los errores superados, las malas estructuras de diseño corregidas, los errores conceptuales que ya habían quedado atrás, sin mencionar los acuerdos alcanzados que fueron fácilmente rotos sin mayor explicación.
+
+Debido a la creciente incertidumbre de los usuarios tradicionales de Canaima Popular -los de casa-, acerca de por qué y bajo cuáles premisas hubo un cambio tan radical en los procesos técnicos de Canaima Popular, lo cual resultó en una desmejora de su experiencia como usuarios, nace Canaima Kueka.
+
+Canaima Kueka es entonces, un intento por traer de vuelta lo perdido durante esos días en la Escuela Venezolana de Planificación, la memoria técnica del Proyecto Canaima.
+
+
+
+# Awarokuruu amoro aukowamumo chokroro tatapiche anapo daro
