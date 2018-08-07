@@ -29,15 +29,15 @@ Luego de esto, ya cualquier plataforma de difusión adicional es siempre un valo
 
 Es por ello que establecemos los siguientes canales de comunicación para Canaima Kueka:
 
-* [Una página web](https://canaimagnulinux.github.io/kueka/).
+* [Una página web](https://canaimakueka.org.ve).
 * [Una cuenta de twitter](https://twitter.com/CanaimaKueka).
-* [Un chat en gitter](https://gitter.im/CanaimaGNULinux/kueka).
-* [Una wiki](https://github.com/CanaimaGNULinux/kueka/wiki).
-* [Un sistema de reporte de tickets](https://github.com/CanaimaGNULinux/kueka/issues).
-* [Una página de planificación de versiones](https://github.com/orgs/CanaimaGNULinux/projects).
-* [Una página se seguimiento de la integración de paquetes](https://canaimagnulinux.github.io/kueka/paquetes) *en construcción*.
-* [Una página se seguimiento de la integración de instaladores](https://canaimagnulinux.github.io/kueka/instaladores) *en construcción*.
+* [Un chat en gitter](https://gitter.im/CanaimaKueka/canaimakueka).
+* [Una wiki](https://github.com/CanaimaKueka/canaimakueka/wiki).
+* [Un sistema de reporte de tickets](https://github.com/CanaimaKueka/canaimakueka/issues).
+* [Una página de planificación de versiones](https://github.com/orgs/CanaimaKueka/projects).
+* [Una página se seguimiento de la integración de paquetes](https://canaimakueka.org.ve/paquetes) *en construcción*.
+* [Una página se seguimiento de la integración de instaladores](https://canaimakueka.org.ve/instaladores) *en construcción*.
 
-Te invitamos cordialmente a integrarte al desarrollo de Canaima Kueka, quizás puedes empezar echandole un ojo a la [planificación de versiones](https://github.com/orgs/CanaimaGNULinux/projects) a ver si existe alguna tarea que te interese.
+Te invitamos cordialmente a integrarte al desarrollo de Canaima Kueka, quizás puedes empezar echandole un ojo a la [planificación de versiones](https://github.com/orgs/CanaimaKueka/projects) a ver si existe alguna tarea que te interese.
 
 ¡Hasta una próxima oportunidad!

@@ -4,8 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://canaimagnulinux.github.io/kueka"
-baseurl: "/kueka"
+url: "http://canaimakueka.org.ve"
+baseurl: "/"
 
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
@@ -28,7 +28,7 @@ navbar-links:
   Recursos:
     - Reportar errores: "https://github.com/CanaimaGNULinux/kueka/issues"
     - Manuales y tutoriales: "https://github.com/CanaimaGNULinux/kueka/wiki"
-    - Chat de la comunidad: "https://gitter.im/CanaimaGNULinux/kueka"
+    - Chat de la comunidad: "https://gitter.im/CanaimaKueka/canaimakueka"
     - Planificación de versiones: "https://github.com/CanaimaGNULinux/kueka/projects"
     - Integración de paquetes: "paquetes"
     - Integración de instaladores: "instaladores"
@@ -102,7 +102,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "canaimagnulinux.github.io/kueka"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "canaimakueka.org.ve"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
